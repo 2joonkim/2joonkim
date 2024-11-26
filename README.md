@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://drive.google.com/file/d/1bNMxPKqfBlm6sOfmvwYeznDOiH5sIqg8/view?usp=drive_link" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=120&text=2JOON%20CODING&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> HI THERE </h2>  
