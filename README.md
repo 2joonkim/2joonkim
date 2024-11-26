@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://drive.google.com/file/d/1Z7c6fktkxlQ6AiJ4u8MbRnY7Ufk1VUuG/view?usp=drive_link" />
+    <img src="https://drive.google.com/file/d/1Z7c6fktkxlQ6AiJ4u8MbRnY7Ufk1VUuG/view?usp=drive_link.gif" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> HI THERE </h2>  
