@@ -26,11 +26,10 @@
          <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    </div>
     <div style="text-align: left;"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-        <div style="text-align: left; display: flex; gap: 10px;"> 
-            <img height="180" width="360" src="https://github-readme-stats.vercel.app/api?username=2joonkim&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&hide_border=true" />
-            <img height="180" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&hide_border=true" />
+        <div style="text-align: left; display: flex; gap: 20px;"> 
+            <img src="https://github-readme-stats.vercel.app/api?username=2joonkim&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&rank_icon=github&custom_title=Joon's GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=donut&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&custom_title=Most Used Languages&card_width=495" />
         </div> 
     </div>
