@@ -26,10 +26,10 @@
          <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:"> </a>
           </div>  <br> 
      </div>
+    <div style="text-align: left;"> 
+        <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div style="text-align: left;"> 
-            <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-            <div style="text-align: left;"> 
-                <img src="https://github-readme-stats.vercel.app/api?username=2joonkim&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&card_width=495" />
-            </div> 
-        </div>
+            <img src="https://github-readme-stats.vercel.app/api?username=2joonkim&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&card_width=495&langs_count=6" />
+        </div> 
+    </div>
