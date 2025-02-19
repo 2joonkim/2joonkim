@@ -30,7 +30,7 @@
     <div style="text-align: left;"> 
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div style="text-align: left; display: flex; gap: 10px;"> 
-            <img width="360" src="https://github-readme-stats.vercel.app/api?username=2joonkim&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-            <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&card_width=360" />
+            <img height="180" width="360" src="https://github-readme-stats.vercel.app/api?username=2joonkim&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&hide_border=true" />
+            <img height="180" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000&hide_border=true" />
         </div> 
     </div>
