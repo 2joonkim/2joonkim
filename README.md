@@ -4,7 +4,7 @@
 
 <br/>
 
-## � dHI THERE
+## Joon
 **A common developer in his 30s who loves development - Fun development stories!** 🔥
 
 <br/>
@@ -13,8 +13,12 @@
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
@@ -49,7 +53,7 @@
 ## 🧑‍💻 Contact Me
 
 <div align="center">
-  <a href="https://velog.io/@2joonkim">
+  <a href="https://velog.io/@2joon_kim/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog"/>
   </a>
 </div>
