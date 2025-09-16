@@ -43,13 +43,9 @@
 <!-- Total Contributions / Streak -->
 <img src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight" alt="streak-stats" />
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=2joonkim&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=2joonkim&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-</div>
+  <img src="https://komarev.com/ghpvc/
