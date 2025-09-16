@@ -36,29 +36,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2joonkim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight" alt="streak-stats" />
-</div>
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<div align="center">
-  <!-- Activity Graph (수정된 버전) -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=2joonkim&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
+<!-- Total Contributions / Streak -->
+<img src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight" alt="streak-stats" />
 
-<br/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=2joonkim&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
-## 🧑‍💻 Contact Me
-
-<div align="center">
-  <a href="https://velog.io/@2joon_kim/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog"/>
-  </a>
 </div>
 
 <br/>
