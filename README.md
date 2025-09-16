@@ -48,5 +48,13 @@
 <br/>
 
 <div align="center">
+
+  <!-- Velog -->
+  <a href="https://velog.io/@2joon_kim/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" alt="Velog"/>
+  </a>
+
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=2joonkim&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+
 </div>
