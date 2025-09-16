@@ -47,8 +47,8 @@
 </div>
 
 <div align="center">
-  <!-- Activity Graph (새 버전) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2joonkim&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <!-- Activity Graph (수정된 버전) -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=2joonkim&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 <br/>
