@@ -38,14 +38,15 @@
 <div align="center">
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <!-- Total Contributions / Streak -->
-<img src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight" alt="streak-stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight" alt="streak-stats" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/
+  <img src="https://komarev.com/ghpvc/?username=2joonkim&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+</div>
