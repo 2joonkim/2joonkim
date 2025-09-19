@@ -38,10 +38,10 @@
 <div align="center">
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight" />
 
 <!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=2joonkim&theme=tokyonight" alt="GitHub Streak Stats" />
+<img width="48%" src="https://streak-stats.demolab.com/?user=2joonkim&theme=tokyonight" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
