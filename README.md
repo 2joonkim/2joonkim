@@ -37,13 +37,20 @@
 
 <div align="center">
 
-<!-- Most Used Languages -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Most Used Languages -->
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight&card_width=420" />
+    </td>
+    <td align="center" width="50%">
+      <!-- GitHub Streak Stats -->
+      <img height="195" src="https://streak-stats.demolab.com/?user=2joonkim&theme=tokyonight&card_width=420" />
+    </td>
+  </tr>
+</table>
 
-<!-- GitHub Streak Stats -->
-<img width="48%" src="https://streak-stats.demolab.com/?user=2joonkim&theme=tokyonight" alt="GitHub Streak Stats" />
-
-<br/><br/>
+<br/>
 
 <!-- Velog -->
 <a href="https://velog.io/@2joon_kim/posts">
