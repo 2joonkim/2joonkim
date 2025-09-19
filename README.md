@@ -41,13 +41,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <!-- Total Contributions / Streak -->
-<img height="180em" src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight" alt="streak-stats" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2joonkim&theme=tokyonight" alt="streak-stats" />
 
 </div>
-
-<br/>
-
-<div align="center">
 
   <!-- Velog -->
   <a href="https://velog.io/@2joon_kim/posts">
