@@ -37,17 +37,15 @@
 
 <div align="center">
 
-  <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=14" 
     alt="Top Languages" 
-    width="45%" />
+    height="180px" />
 
-  <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=2joonkim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" 
     alt="GitHub Stats" 
-    width="45%" />
+    height="180px" />
 
   <br/><br/>
 
