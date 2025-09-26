@@ -37,18 +37,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <!-- Most Used Languages -->
-      <img height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight&card_width=500" />
-    </td>
-    <td align="center" width="50%">
-      <!-- GitHub Streak Stats -->
-      <img height="280" src="https://streak-stats.demolab.com/?user=2joonkim&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img width="45%" src="https://streak-stats.demolab.com/?user=2joonkim&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <br/>
 
