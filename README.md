@@ -35,12 +35,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
   &nbsp;&nbsp;
-  <img width="45%" src="https://streak-stats.demolab.com/?user=2joonkim&theme=tokyonight" alt="GitHub Streak" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <br/>
