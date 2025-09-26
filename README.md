@@ -35,21 +35,20 @@
 
 ## 📊 GitHub Analytics
 
+<div align="center">
 
-<p align="center">
+  <!-- 언어 통계 + 스트릭 -->
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  &nbsp;&nbsp;
   <img width="45%" src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<br/>
+  <br/><br/>
 
-<!-- Velog -->
-<a href="https://velog.io/@2joon_kim/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-</a>
+  <!-- Velog -->
+  <a href="https://velog.io/@2joon_kim/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+  </a>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=2joonkim&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=2joonkim&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
 </div>
