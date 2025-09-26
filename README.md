@@ -37,9 +37,17 @@
 
 <div align="center">
 
-  <!-- 언어 통계 + 스트릭 -->
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=14"
+    alt="Top Languages"
+    width="46%" />
+
+  <!-- Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight&hide_border=true&border_radius=14"
+    alt="GitHub Streak"
+    width="46%" />
 
   <br/><br/>
 
