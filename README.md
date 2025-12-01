@@ -16,13 +16,21 @@
 │   ██████╔╝███████╗ ╚████╔╝     ██║██║ ╚████║    ██████╔╝╚██████╔╝███████║  │
 │   ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝╚═╝  ╚═══╝    ╚═════╝  ╚═════╝ ╚══════╝  │
 │                                                                             │
+│                                  Joon                                       │
+│    🔥 A common developer in his 30s who loves development 🔥               │
+│                      Fun development stories!                               │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-## Joon
-**A common developer in his 30s who loves development - Fun development stories!** 🔥
+<br/>
+
+<!-- Animated line -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <br/>
 
@@ -50,27 +58,24 @@
 
 <br/>
 
+<!-- Animated line -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<br/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=14"
-          alt="Top Languages"
-          height="150px" />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=2joonkim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14"
-          alt="GitHub Stats"
-          height="150px" />
-      </td>
-    </tr>
-  </table>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=14" alt="Top Languages" height="150px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=2joonkim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Stats" height="150px" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
 
   <br/><br/>
 
