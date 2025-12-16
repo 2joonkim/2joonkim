@@ -69,27 +69,23 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/2joonkim">
-    <img src="https://github-readme-stats.vercel.app/api?username=2joonkim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="180px" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/2joonkim">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2joonkim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="180px" alt="Top Languages"/>
-  </a>
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2joonkim&theme=tokyonight" alt="Profile Details"/>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2joonkim&theme=tokyonight" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2joonkim&theme=tokyonight" alt="Most Commit Language"/>
+
+  <br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2joonkim&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2joonkim&theme=tokyonight&utcOffset=9" alt="Productive Time"/>
 
   <br/>
 
   <!-- GitHub Streak -->
-  <a href="https://github.com/2joonkim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2joonkim&theme=tokyonight&hide_border=true&border_radius=15&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakNum=38bdae&sideNums=70a5fd&currStreakLabel=38bdae&sideLabels=70a5fd&dates=565f89" alt="GitHub Streak"/>
-  </a>
-
-  <br/>
-
-  <!-- Activity Graph -->
-  <a href="https://github.com/2joonkim">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=2joonkim&theme=tokyo-night&hide_border=true&radius=15&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="95%" alt="Activity Graph"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
   <br/><br/>
 
