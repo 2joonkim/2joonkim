@@ -85,7 +85,7 @@
   <br/>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=2joonkim&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=2joonkim&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
   <br/><br/>
 
