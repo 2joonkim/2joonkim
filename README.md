@@ -65,35 +65,7 @@
 
 <br/>
 
-## 📊 GitHub Analytics
-
 <div align="center">
-
   <!-- Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2joonkim&theme=tokyonight" alt="Profile Details"/>
-
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2joonkim&theme=tokyonight" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2joonkim&theme=tokyonight" alt="Most Commit Language"/>
-
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2joonkim&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2joonkim&theme=tokyonight&utcOffset=9" alt="Productive Time"/>
-
-  <br/>
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=2joonkim&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
-  <br/><br/>
-
-  <!-- Velog & Profile Views -->
-  <a href="https://velog.io/@2joon_kim/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=2joonkim&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-
 </div>
